@@ -68,7 +68,7 @@ p {
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
-    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background for readability */
+    background-color: rgba(0, 0, 0, 0.5); 
     padding: 10px;
     text-align: center;
 }
@@ -78,16 +78,16 @@ p {
     bottom: 40%;
     left: 10%;
     color: white;
-    background-color: rgba(7, 83, 111, 0.7); /* Semi-transparent background for readability */
+    background-color: rgba(7, 83, 111, 0.7); 
     padding: 10px;
-    width: 75%; /* Adjust as needed */
+    width: 75%; 
 }
 
 
 .hero article img {
     float: right;
     margin-left: 10px;
-    width: 150px; /* Example size */
+    width: 150px; 
     height: auto;
     border: none;
     border-radius: 50%;
