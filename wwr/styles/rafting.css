@@ -71,7 +71,7 @@ p {
     text-align: center;
 }
 
-.hero .article {
+.hero article {
     position: absolute;
     bottom: 40%;
     left: 10%;
@@ -81,7 +81,7 @@ p {
     width: 75%;
 }
 
-.hero .article img {
+.hero article img {
     float: right;
     margin-left: 10px;
     width: 150px;
@@ -91,7 +91,7 @@ p {
     object-fit: cover;
 }
 
-.hero .article p {
+.hero article p {
     color: #fff;
 }
 
